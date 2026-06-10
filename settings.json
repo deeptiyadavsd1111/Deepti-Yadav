@@ -1,0 +1,14 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "npx markdownlint": true,
+        "awk": true,
+        "nohup": true,
+        "helm": true,
+        "npx npm-check-updates": true,
+        "npx --yes npm-check-updates@19.6.5": true,
+        "npm install": true,
+        "npm audit": true,
+        "tee": true,
+        "jq": true
+    }
+}
