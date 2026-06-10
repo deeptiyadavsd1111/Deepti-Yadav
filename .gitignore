@@ -1,0 +1,29 @@
+CODEOWNERS
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# Node
+node_modules/
+
+# Ignore Docusaurus Files
+.docusaurus/
+
+# Ignore Log Files
+*.log
+
+# Ignore build folder
+build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
