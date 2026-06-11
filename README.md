@@ -65,13 +65,3 @@ The project uses the following configuration files for linting:
 CSpell is used for spell checking throughout the codebase.
 
 > **Note:** We no longer use the `words` array inside `tools/cspell.json`. The dictionary has been split into multiple files under `tools/dictionaries/`.
-
-### Dictionary Structure
-```
-tools/dictionaries/
-```
-- cspell-dicts-A-F.txt — words A–F
-- cspell-dicts-G-L.txt — words G–L
-- cspell-dicts-M-R.txt — words M–R
-- cspell-dicts-S-Z.txt — words S–Z
-- cspell-dicts-MISC.txt — acronyms and mixed-case terms.
